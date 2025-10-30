@@ -6,7 +6,7 @@ Un simple bot raid de **Discord**, donde puedes raidear facilmente un servidor.
 
 Para instarlo simplente abre el **Cmd** en tu pc luego ejectuta
 
-``pip install discord.py`` luego editas el bot.py y luego ejecutas ```python bot.py``
+``pip install discord.py`` luego editas el bot.py y luego ejecutas ``python bot.py``
 
 ## ✨ Características Principales
 
