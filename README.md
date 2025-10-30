@@ -1,4 +1,5 @@
-#  xRaid v1.0.0
+![xRaidBanner](https://github.com/user-attachments/assets/e10d24e9-bf02-479d-b4e1-7bbc33c0225b)
+## xRaid v1.0.0
 
 Un simple bot raid de **Discord**, donde puedes raidear facilmente un servidor.
 
@@ -11,6 +12,8 @@ Para instarlo simplente abre el **Cmd** en tu pc luego ejectuta
 ## ✨ Características Principales
 
 * **Comando** Escribe `$go` y empieza la magia. Tambien tiene `$nuke` para borrar todo los canales
+
+____
 
 ## ⚙️ ¿Cómo Funciona?
 
